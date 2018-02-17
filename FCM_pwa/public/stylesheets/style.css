@@ -1,0 +1,38 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.header {
+  background: #00B7FF;
+  top: 0px;
+  height: 50px;
+  text-align: center;
+  width: 100%;
+}
+
+.fixed {
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+.header_div{
+  font: 18px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-weight: 'bold';
+  width: 100%;
+  color: #FFFFFF;
+  text-decoration: underline;
+  cursor: pointer;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.active{
+  line-height: 1;
+  background-color: red;
+}

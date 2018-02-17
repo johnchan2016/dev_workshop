@@ -1,0 +1,23 @@
+{
+  "short_name": "Maniqure",
+  "name": "Maniqure",
+  "icons": [
+    {  
+      "src": "/images/icons/icon-32x32.png",  
+      "sizes": "32x32",  
+      "type": "image/png"  
+    },   
+    {  
+      "src": "/images/icons/icon-144x144.png",  
+      "sizes": "144x144",  
+      "type": "image/png"  
+    }
+  ], 
+  "gcm_sender_id": "103953800507",
+  "start_url": "/",
+  "background_color": "#81d8cf",
+  "theme_color": "#81d8cf",
+  "display": "standalone",
+  "orientation": "any",
+  "description": "Book a manicure session now! Dress up your nails at Maniqure Nail Salon in Kota Kinabalu. Choose your designs and get price & time estimate immediately!"
+}

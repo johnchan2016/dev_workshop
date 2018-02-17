@@ -1,0 +1,3 @@
+targets:
+  apollo: shared-eu-west-1/cjaiba7iy0t710199ic67cq14
+  default: apollo
